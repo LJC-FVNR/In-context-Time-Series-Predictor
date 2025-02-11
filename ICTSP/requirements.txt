@@ -1,0 +1,22 @@
+einops
+fbm
+matplotlib
+numpy==1.26.4
+pandas
+ptflops
+pynvml
+scipy
+seaborn
+sympy
+torch
+tqdm
+tvm
+IPython
+tensorboard
+statsmodels
+statsforecast
+scikit_learn
+pmdarima
+lightgbm
+
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124

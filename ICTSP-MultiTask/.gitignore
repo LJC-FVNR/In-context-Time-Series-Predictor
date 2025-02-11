@@ -1,0 +1,10 @@
+/runs
+/results
+/test_results
+/logs
+/dataset
+/checkpoints
+/.ipynb_checkpoints
+nohup.out
+result.txt
+nohup.txt
